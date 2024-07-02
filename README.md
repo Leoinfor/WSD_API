@@ -1,6 +1,6 @@
 # WSD_API
-To start:
-    1. Add /model into the project
-    2. Install the modules in requirements
-    3. run uvicorn main:app --reload in the command line
-    [ ] abc
+
+To_start:
+1. Add /model in the project
+2. Install the modules in requirements
+3. Run uvicorn main:app --reload in the command line
