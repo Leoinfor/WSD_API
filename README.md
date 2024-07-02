@@ -7,8 +7,7 @@
 pip install 
 # or other ways
 ```
-3. Run 
+3. Run the following in the command line
 ```bash
 uvicorn main:app --reload 
 ``` 
-in the command line
